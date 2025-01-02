@@ -1,4 +1,3 @@
-```mermaid
 sequenceDiagram
     actor u as User
     participant a as Browser
@@ -24,4 +23,3 @@ sequenceDiagram
     Note right of a: Browser executes callback function, rendering notes
 
     a->u: Webpage is finished loading
-```
